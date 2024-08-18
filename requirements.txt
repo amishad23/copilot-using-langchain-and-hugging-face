@@ -1,0 +1,8 @@
+langchain-huggingface
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
+langchain
+torch==2.0.0  # If using PyTorch with GPU support
+tensorflow==2.13.0  # If using TensorFlow (optional)
